@@ -43,7 +43,7 @@ The Power BI Dashboard was structured into four pages to provide comprehensive i
 -	Categories by Total Sales Amount: -this section shows top of product categories (Bikes), it indicates which category contributed the the most to the total sales amount.
 -	Profit by category: - it helps analyze the profitability of different product categories.
 -	Top Region: - this section provides information about top region in terms of sales and it is Australia, is the one where product categories of store have generated the highest sales.
-##  Business Recommendationn
+##  Business Recommendation
 -	Focus on Top Customers: - Pay special attention to them, build strong relationships with them and provide them with personalized offers to encourage repeat business.
 -	Analyze Product Category performance: - Evaluate the performance of different product categories, while Bikes seems to be the leading category in terms of sales, consider investing in marketing and product development Accessories, clothing and components to further boost their sales.
 
