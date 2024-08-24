@@ -24,6 +24,7 @@ The remaining tables are dimension tables and they have the following name:
 ,Date).
 - Check the automatic joins
 - Create the necessary relationships if not identified by Power BI
+  
 ![Data Modelling](https://github.com/user-attachments/assets/95416c40-9fd3-453d-9405-05984892e0ae)
 
 ## Data Visualization
@@ -32,18 +33,22 @@ The remaining tables are dimension tables and they have the following name:
 -	What are top-selling product categories, and how does their performance vary over time?
 -	Who are our best customers based on sales?
 ## Dashboards
-The Power BI Dashboard was structured into four pages to provide comprehensive insights
+#### The Power BI Dashboard was structured into four pages to provide comprehensive insights
 
-#### 1. Overview Page: provide an overall snapshot of sales performance, trends and key metrics.
+### 1. Overview Page: provide an overall snapshot of sales performance, trends and key metrics.
+
   ![Overview Page](https://github.com/user-attachments/assets/c4085d19-5776-4a7d-9e1d-de31b09e6e06)
  
-#### 2. Customer Page: analyze customer behavior, segments and purchasing patterns.
+### 2. Customer Page: analyze customer behavior, segments and purchasing patterns.
+
   ![Customer Page](https://github.com/user-attachments/assets/0ed2e7b1-44e6-4306-801c-bdc7d56b23a3)
 
-#### 3. Product Page: assess product performance.
+### 3. Product Page: assess product performance.
+
   ![Product page](https://github.com/user-attachments/assets/d84fa5b4-0648-4b5d-a1b0-0c5c12312366)
 
-#### 4. Location Page: visualize regional sales distribution.
+### 4. Location Page: visualize regional sales distribution.
+
 ![Location Page](https://github.com/user-attachments/assets/82271761-cc37-4b7f-8352-9248304b200b)
 
 # Insights
