@@ -25,7 +25,10 @@ The remaining tables are dimension tables and they have the following name:
 - Check the automatic joins
 - Create the necessary relationships if not identified by Power BI
   
-![Data Modelling](https://github.com/user-attachments/assets/95416c40-9fd3-453d-9405-05984892e0ae)
+
+![Data Modelling](https://github.com/user-attachments/assets/241e9f73-d00f-42bf-82b3-d12c71d1e7c2)
+
+
 
 ## Data Visualization
 #### Visualizations were created to show the following:
